@@ -1,2 +1,2 @@
 # Jogodecartas
-Jogo de cartas- Teste 7
+Jogo de cartas triunfo- Teste 7
